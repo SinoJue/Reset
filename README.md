@@ -17,27 +17,37 @@ Awesome programs trusted in various fields, useful for those reset the computer.
 ## Config
 > This chapter does not recommend applications, but provide some tips for those who want a better experience using Windows.  
 > The default configuration may not be perfect, and is often incorrect.
-- **Windows Update**
-  > First check
-- **Taskbar**
-  > Hide unnecessary, pin often ones.
-- **Menu**
-  > More pinned  
-  > Disable unuseful options
-- **Windows Resources Explorer**
-  > When open: This Computer  
-  > Do not show often used, recently used and office files.  
-  > Pin archives often used  
-  > Organize main archives
+- **Windows Active**
+  > [Active Guide (For Windows 11)](https://tech.wmzhe.com/article/97640.html)
+- **Updates**
+  > Always check first the ***Windows Update*** & ***Microsoft Store Update***
+  > Just open the window and let it run on updating.
+- **Power**
+  > Never sleep nether close (Anyone has different opnion, just do want)
+- **Storage**
+  > Auto clean uneccesary files in two weeks
 - **Multi-Task**
   > Do not show Edge tabs
 - **Clipboard**
   > Active hotkey "Win"+"V"
+- **Menu**
+  > More pinned  
+  > Disable unuseful options
+  > Display the following buttons
+    > - Setting
+    > - Resources Explorer
+    > - Downloads
+- **Taskbar**
+  > Hide unnecessary, pin often ones.
+- **Windows Resources Explorer**
+  > When open: Main Folder  
+  > Do not show often used, recently used and office files.  
+  > Pin archives often used  
+  > Organize main archives
   
 > [Back to Top](#awesomereset)
 
 ## Device Driver
-- [Snappy Driver](https://www.snappy-driver-installer.org/)
 - [Nvidia Driver](https://www.nvidia.com/en-us/geforce/drivers/)
 - [AMD Driver](https://www.amd.com/en/support)
 - [Intel Driver](https://www.intel.com/content/www/us/en/download-center/home.html)
@@ -98,6 +108,7 @@ Awesome programs trusted in various fields, useful for those reset the computer.
 - [PowerToys](https://github.com/microsoft/PowerToys)
 - [Listary](https://www.listary.com/)
 - [Everything/VoidTool](https://www.voidtools.com/zh-cn/downloads/)
+- [QuickLook](https://github.com/QL-Win/QuickLook)
 
 > [Back to Top](#awesomereset)
 
@@ -109,6 +120,7 @@ Awesome programs trusted in various fields, useful for those reset the computer.
 ## IDE
 - [Visual Studio](https://visualstudio.microsoft.com/)
 - [JetBrain](https://www.jetbrains.com/)
+- [Eclipse](https://www.eclipse.org/downloads/)
 
 > [Back to Top](#awesomereset)
 
@@ -128,9 +140,34 @@ Awesome programs trusted in various fields, useful for those reset the computer.
 
 > [Back to Top](#awesomereset)
 
+## Game Engine
+- [Unity](https://unity.com) Extremely ***Dangerous*** credit crisis
+- [Godot](https://godotengine.org/)
+- [Unreal](https://www.unrealengine.com/zh-CN)
+- [Cocos Creater](https://www.cocos.com/en/creator)
+
+> [Back to Top](#awesomereset)
+
 ## Wiki Documentation
 - [Mkdocs](https://www.mkdocs.org/)
 - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
+
+> [Back to Top](#awesomereset)
+
+## Websites
+- [BiliBili](https://www.bilibili.com/)
+- [Github](https://github.com/)
+- [IconFont](https://www.iconfont.cn/)
+- [AgeFans](https://www.agemys.org/)
+- [Anime1](https://anime1.me/)
+- [CatLikeCoding](https://catlikecoding.com/)
+- [Microsoft .Net Learn](https://learn.microsoft.com/)
+- [Udemy](https://www.udemy.com/)
+
+> [Back to Top](#awesomereset)
+
+## Net Frp
+- [SakuraFrp](https://www.natfrp.com/)
 
 > [Back to Top](#awesomereset)
 
