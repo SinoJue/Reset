@@ -5,7 +5,7 @@
 ## :computer: Prepare to reset
 > There are many reason for reset computer, slow speed, unorganized archives, path or system error, clean unuseful files, even change the PC name.
 > 
-Anyone who has reset the system knows that downloading resources from the server is extremely slow and has chance of error (if an error occurs, you have to start over). This is not a good idea for people who often need to reset.   
+Anyone who has reset the system knows that downloading resources from the server is slow, and is not a good idea for people who often need to reset.   
 <br/>
 One of the best solution is **make your own local static resources**, a USB drive is a commonly used option.  
 |**NAME**|**BADGE**|**LINK**|**DESCRIPTION**|
@@ -96,7 +96,7 @@ If you are not sure about the reset process, please read the introduction below.
 |--------|--------|---------------|
 |PDF24|[PDF24](https://tools.pdf24.org/en/creator)|Best PDF Editor forever. (Free, Online & App versions **Recommended**)|
 
-> :bell: PDF24 does not support chines characters.
+> :bell: PDF24 does not support chinese characters.
 
 [↑ Back to Top ↑](#Reset)  
 
@@ -148,7 +148,7 @@ If you are not sure about the reset process, please read the introduction below.
 |**NAME**|**LINK**|**DESCRIPTION**|
 |--------|--------|---------------|
 |Canva|[Canvas](https://www.canva.com/en/)|Canvas Design|
-|IconFont|[IconFont](https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&cid=9402)|Alibaba Iconfont libriry|
+|IconFont|[IconFont](https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&cid=9402)|Alibaba Iconfont library|
 |HW Tool|[HW Tool](https://www.pslkzs.com/nav/wh.php)|Height & Weight Calculator|
 
 [↑ Back to Top ↑](#Reset)  
