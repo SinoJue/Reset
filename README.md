@@ -1,8 +1,6 @@
 # Reset
 ![ResetYourPC](https://cdn.jsdelivr.net/gh/NephryteJade/picx-images-hosting@master/20231207/ResetPC.2vyfpveafda0.webp)
-- **Some suggestions after resetting the computer.**
-- **Some commonly-used high-quality software (unlimited).**
-- **Some awesome website or resources can be helpful.**
+> **Some suggestions after reinstalling the computer.**
 ---
 ## :computer: Prepare to reset
 > There are many reason for reset computer, slow speed, unorganized archives, path or system error, clean unuseful files, even change the PC name.
